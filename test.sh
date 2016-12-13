@@ -1,5 +1,5 @@
-#/bin/sh
-#echo "Hello World !"
+#!/bin/zsh
+echo "Hello World !"
 #my_name="Wdw"
 #echo $my_name
 #echo ${my_name}
